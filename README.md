@@ -4,6 +4,8 @@
 ### I’m currently:
 - 👨🏻‍💻 working on backend services of web platforms;
 - 🖥 learning to build scalable backend services;
+- 🥷🏻 solving problems on [Codewars](https://www.codewars.com/users/zayniddindev/) and [LeetCode](https://leetcode.com/zayniddindev/);
+- ✍️ writing about JavaScript on [script.js](https://t.me/scriptjs);
 - 📘 reading books about coding;
 - ⚡ and many more
 
