@@ -1,23 +1,16 @@
-# Hello there 👋
-
-## My name is Zayniddin, an enthusiastic software delevoper 👨🏻‍💻
-
-### Current streak:
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=zayniddindev)](https://git.io/streak-stats)
-
-### I’m currently:
-
-- 👨🏻‍💻 working with backend side of web platforms;
-- 🖥 learning to build scalable backend services;
-- 🥷🏻 solving problems on [Codewars](https://www.codewars.com/users/zayniddindev/) and [LeetCode](https://leetcode.com/zayniddindev/);
-- ✍️ writing about JavaScript on [script.js](https://t.me/scriptjs);
-- 📘 reading books about programming;
-- ⚡ and many more
-
-### Technologies I use:
-
-<code><img height="40" title="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<h1 align="center">Hello there 👋</h1>
+<h2 align="center"> My name is Zayniddin, an enthusiastic software delevoper 👨🏻‍💻</h2>
+<br>
+<h3 align="center">My Github stats:</h3>
+<p align="center">
+  <a href="https://github.com/zayniddindev">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="zayniddindev's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=zayniddindev&theme=monokai-metallian&hide_border=true"/>
+  </a>
+</p>
+<br>
+<h3 align="center"> Technologies I use:</h3>
+<div align="center">
+<code ><img height="40" title="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="40" title="Node.js" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="40" title="Typescript" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png"></code>
 <code><img height="40" title="Node package manager" src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png"></code>
@@ -29,9 +22,11 @@
 <code><img height="40" title="Git VC" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="40" title="Docker" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png"></code>
 <code><img height="40" title="Ubuntu" src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png"></code>
-
-### You can connect with me via:
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/zayniddindev);
-- 📷 [Instagram](https://instagram.com/ozhjs);
-- 📮 [Telegram](https://t.me/ozhjs);
+</div>
+<br>
+<h3 align="center">You can connect with me via:</h3>
+<ul style="list-style: none" align="center">
+<li><a href="https://www.linkedin.com/in/zayniddindev">💼 LinkedIn</a></li>
+<li><a href="https://instagram.com/ozhjs">📷 Instagram</a></li>
+<li><a href="https://t.me/ozhjs">📮 Telegram</a></li>
+</ul>
