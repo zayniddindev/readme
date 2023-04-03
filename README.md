@@ -1,6 +1,10 @@
-## Hello there 👋
+# Hello there 👋
 
-### My name is Zayniddin, an enthusiastic web delevoper
+## My name is Zayniddin, an enthusiastic software delevoper 👨🏻‍💻
+
+### Current streak:
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=zayniddindev)](https://git.io/streak-stats)
 
 ### I’m currently:
 
