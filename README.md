@@ -26,10 +26,7 @@
 <br>
 <h3 align="center">You can connect with me via:</h3>
 <div align="center">
-<code style="list-style-image: none;list-style-type:circle;list-style: none;" align="center">
-<a href="https://www.linkedin.com/in/zayniddindev">💼 LinkedIn</a></code>
-<code style="list-style-image: none;list-style-type:circle;list-style: none;" align="center">
-<a href="https://instagram.com/ozhjs">📷 Instagram</a></code>
-<code style="list-style-image: none;list-style-type:circle;list-style: none;" align="center">
-<a href="https://t.me/ozhjs">📮 Telegram</a></code>
+<code><a href="https://www.linkedin.com/in/zayniddindev">💼 LinkedIn </a></code>
+<code><a href="https://instagram.com/ozhjs">📷 Instagram </a></code>
+<code><a href="https://t.me/ozhjs">📮 Telegram</a></code>
 </div>
