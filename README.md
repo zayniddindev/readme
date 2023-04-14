@@ -28,5 +28,5 @@
 <div align="center">
 <code><a href="https://www.linkedin.com/in/zayniddindev">💼 LinkedIn </a></code>
 <code><a href="https://instagram.com/ozhjs">📷 Instagram </a></code>
-<code><a href="https://t.me/ozhjs">📮 Telegram</a></code>
+<code><a href="https://t.me/zayniddn">📮 Telegram</a></code>
 </div>
