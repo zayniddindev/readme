@@ -26,7 +26,7 @@
 <br>
 <h3 align="center">You can connect with me via:</h3>
 <div align="center">
-<code><a href="https://www.linkedin.com/in/zayniddindev">💼 LinkedIn </a></code>
-<code><a href="https://instagram.com/ozhjs">📷 Instagram </a></code>
+<code><a href="https://www.linkedin.com/in/zayniddin-atabaev">💼 LinkedIn </a></code>
+<code><a href="https://instagram.com/zayniddinatabaev">📷 Instagram </a></code>
 <code><a href="https://t.me/zayniddn">📮 Telegram</a></code>
 </div>
